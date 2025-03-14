@@ -182,11 +182,11 @@
   {
     "text": "Asian_M_1_Casual",
     "image": "images/Asian_M_1_Casual.jpg",
-    "model": "avatars/Asian/Asian_M_1_Casual.glb",
+    "model": "avatars/Asian/Asian_M_1_Casual.fbx",
     "ethnicity": "Asian",
     "gender": "M",
     "num": "1",
-    "outfit": "Casual"
+    "outfit": "Custom"
   },
   {
     "text": "Asian_M_1_Busi",
